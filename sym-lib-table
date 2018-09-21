@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name anavi-thermometer-rescue)(type Legacy)(uri ${KIPRJMOD}/anavi-thermometer-rescue.lib)(options "")(descr ""))
+)
