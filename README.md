@@ -1,11 +1,11 @@
-# ANAVI Light Contoroller
+# ANAVI Thermometer
 
 ANAVI Thermometer is an open source hardware development board that acts like a WiFi smart thermometer. It features:
 
 * ESP8266 WiFi microcontroller
 * DHT22 sensor for temperature and humidity
 * Terminal for waterproof DS18B20 1-Wire temperature sensor
-* Dedicated slot for I2C OLED 
+* Dedicated slot for I2C OLED display
 * Slots for up to 3 plug and play I2C sensors for temperature, barometric pressure, humidity and light
 * UART (Universal asynchronous receiver/transmitter) pins for debugging
 
